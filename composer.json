@@ -1,0 +1,17 @@
+{
+    "name": "rudderrave/yii2-yee-generator",
+    "description": "Rave Gii Generators",
+    "type": "yii2-extension",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Rave",
+            "email": "rudder.rave@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "ravesoft\\generator\\": ""
+        }
+    }
+}
